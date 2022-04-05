@@ -20,10 +20,10 @@ A Clone of the `Porcus Website`, with the dinamic animations, brand colors and r
 
 Some of the technologies that were used for building this project.
 
-- [Typescript]()
-- [vue.js]()
-- [Nuxt]()
-- [Sass]()
+- [Typescript](https://www.typescriptlang.org/)
+- [Vue.js](https://vuejs.org/)
+- [Nuxt](https://v3.nuxtjs.org/)
+- [Sass](https://sass-lang.com/)
 
 <div style="display:flex;justify-content:center;gap:16px">
   <img src="./docs/typescript-ico.svg" alt="typescript icon" width="50" height="50">
